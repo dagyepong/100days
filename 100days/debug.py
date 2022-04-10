@@ -13,3 +13,10 @@ from random import randint
 dice_imgs = ["😎", "😂", "✌️", "👌", "🙈", "😔"]
 dice_num = randint(0, 5)
 print(dice_imgs[dice_num])
+
+# Fix the errors
+
+age = int(input("What is your age? "))
+if age > 18:
+    print(f"You can drive at age {age}")
+    
