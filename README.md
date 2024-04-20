@@ -1,2 +1,3 @@
-# 100days
-This purely contains the projects from 100days of code . A course from Udemy; which comprises of python, java and css
+## Python Scripts
+
+This purely contains the projects from 100days of code . A course from Udemy; which comprises of python, java and css. Access this repo for fun and learn python as well...
